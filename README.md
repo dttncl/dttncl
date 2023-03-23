@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dttncl
-- 🌱 C# , SQL
+- 🌱 C# , PL/SQL, HTML, CSS, Javascript
 
 <!---
 dttncl/dttncl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
