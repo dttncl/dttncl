@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bernadette
-- 🌱 C# , PL/SQL, HTML, CSS, Javascript
+- 🌱 PHP, PL/SQL, HTML, CSS, Javascript
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dttncl&layout=compact)
 
