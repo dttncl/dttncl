@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular, ASP.NET**
 
-- 👨‍💻 All of my projects are available at [https://detfernando.vercel.app/](https://detfernando.vercel.app/)
+- 👨‍💻 All of my projects are available at [detfernando.tech](https://www.detfernando.tech/)
 
 - ⚡ Fun fact **I crochet on the side**
 
