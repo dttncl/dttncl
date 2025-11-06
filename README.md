@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular, ASP.NET**
 
-- 👨‍💻 All of my projects are available at [detfernando.vercel.app](hhttps://detfernando.vercel.app/)
+- 👨‍💻 All of my projects are available at [detfernando.vercel.app](https://detfernando.vercel.app/)
 
 - ⚡ Fun fact **My hobby is to find hobbies**
 
